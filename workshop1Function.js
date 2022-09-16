@@ -1,6 +1,6 @@
 // Returns true if age is over 18, otherwise returns false
 
-/* function areYouOldEnough(age) {
+function areYouOldEnough(age) {
   if (age < 18) {
     console.log(false);
     return `U suck`;
@@ -15,9 +15,9 @@ document.write(areYouOldEnough(10));
 
 alert(areYouOldEnough(5));
 alert(areYouOldEnough(25));
- */
+
 // Define an object to hold data for a person
-var person1 = {
+/*var person1 = {
   firstName: "John",
   lastName: "Doe",
   age: 50,
@@ -68,3 +68,4 @@ persons.map((person) => {
 });
 
 console.log("hi!");
+*/
